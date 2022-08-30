@@ -7,7 +7,7 @@ class Program
         for (char alph = 'a'; alph <= 'z'; alph++)
         {
         if (alph != 'e' && alph != 'q')
-            Console.Write(loop);
+            Console.Write(alph);
         }
     }
 }
